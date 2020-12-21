@@ -1,0 +1,19 @@
+{
+  "name": "@dbm-network/dbm-types",
+  "version": "1.0.0",
+  "description": "provides basic types for DBM, for mod developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbm-network/dbm-types.git"
+  },
+  "author": "DBM-Network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbm-network/dbm-types/issues"
+  },
+  "homepage": "https://github.com/dbm-network/dbm-types#readme"
+}
