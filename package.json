@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dbm-network/dbm-types/issues"
   },
-  "homepage": "https://github.com/dbm-network/dbm-types#readme"
+  "homepage": "https://github.com/dbm-network/dbm-types#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
 }
